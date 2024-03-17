@@ -1,7 +1,9 @@
 Hi! My name is Sanjith S 😄
 ========================================================================================================================================
 
-🌍  I am a MERN stack developer in INDIA
+🌍  Dynamic and ambitious full stack developer with a strong passion for coding and
+ problem solving. Knowledge gained through self-study and practical experience to
+ contribute effectively to innovative projects in a professional environment.
 <br/>
 
 ### Skills
