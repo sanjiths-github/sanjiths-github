@@ -1,0 +1,19 @@
+SANJITH S — ANIMATED GITHUB PROFILE
+
+1. Extract sanjith-github-profile.zip.
+2. Open the GitHub repository that has the same name as your GitHub username.
+3. Upload README.md and the entire assets folder into the repository root.
+4. Commit the files, then refresh your GitHub profile.
+
+Use the raw README.md content if you copy and paste it. Do not copy the rendered
+preview. HTML tags should start with < and should not contain backslashes.
+
+The assets folder must sit beside README.md. Keep the filenames unchanged:
+the README uses relative image paths. The LinkedIn link is already configured.
+
+The animated headers are GIFs. Skill cards and contact panels are SVGs.
+Desktop and mobile assets are selected automatically by the picture element.
+The hero SVG files are editable static versions of the header design.
+
+Everything is self-contained. No image-hosting account, third-party badge
+service, GitHub statistics service, or scheduled workflow is needed.
